@@ -1,0 +1,16 @@
+data
+*openai*
+csvs
+.vscode
+__pycache__
+*.pyc
+wandb
+.locks
+hf
+.ruff_cache
+logs*
+*.pdf
+*.bash
+plots
+lora_rank*
+vera_rank*
