@@ -71,7 +71,7 @@ For more details on available options, please refer to the configuration files i
 If you use this code in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{panariello2025efficient,
+@inproceedings{panariello2025accurate,
   title     = {Accurate and Efficient Low-Rank Model Merging in Core Space},
   author    = {Panariello, Aniello and Marczak, Daniel and Magistri, Simone and Porrello, Angelo and Twardowski, Bart{\l}omiej and Bagdanov, Andrew D. and Calderara, Simone and van de Weijer, Joost},
   booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
