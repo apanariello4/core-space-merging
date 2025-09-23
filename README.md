@@ -4,6 +4,7 @@
 This repository contains the official implementation for the NeurIPS 2025 paper:
 
 > **[Accurate and Efficient Low-Rank Model Merging in Core Space](https://arxiv.org/abs/2509.17786)**
+> 
 > [Aniello Panariello](https://scholar.google.com/citations?user=YnVl5pQAAAAJ)\*, [Daniel Marczak](https://scholar.google.com/citations?user=Vs4kBzQAAAAJ)\*, [Simone Magistri](https://scholar.google.com/citations?user=fAS993EAAAAJ), [Angelo Porrello](https://scholar.google.com/citations?user=pGNOOk0AAAAJ), [Bartłomiej Twardowski](https://scholar.google.com/citations?user=8yywECgAAAAJ), [Andrew D. Bagdanov](https://scholar.google.com/citations?user=_Fk4YUcAAAAJ), [Simone Calderara](https://scholar.google.com/citations?user=YaRuDkcAAAAJ), [Joost van de Weijer](https://scholar.google.com/citations?hl=en&user=Gsw2iUEAAAAJ)
 
 
