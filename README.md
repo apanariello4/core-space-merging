@@ -1,5 +1,6 @@
 # Core Space Merging for Parameter-Efficient Fine-Tuning (PEFT)
 [![arXiv](https://img.shields.io/badge/arXiv-2509.17786-b31b1b.svg?style=flat)](https://arxiv.org/abs/2509.17786) [![GitHub stars](https://img.shields.io/github/stars/apanariello4/core-space-merging?style=social)](https://github.com/apanariello4/core-space-merging/stargazers) [![BibTeX](https://img.shields.io/badge/BibTeX-Available-brightgreen.svg)](#citation)
+
 This repository contains the official implementation for the NeurIPS 2025 paper:
 
 > **[Accurate and Efficient Low-Rank Model Merging in Core Space](https://arxiv.org/abs/2509.17786)**
